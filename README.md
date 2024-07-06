@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sanjaikrp" alt="sanjaikrp" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=1000&height=40&duration=3500&lines=👋+Welcome+to+my+GitHub+profile!;+I'm+Sanjai+Kolathur+Revathi+Poovaragavan,+a+passionate+software+engineer.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=900&height=60&duration=3800&lines=Welcome+to+my+GitHub+profile!+👋;+I'm+Sanjai+Kolathur+Revathi+Poovaragavan,+a+passionate+software+engineer!;" />
 </h1>
 
 I'm Sanjai Kolathur Revathi Poovaragavan, a dedicated and innovative software engineer currently at [Odessa Technologies](https://www.odessainc.com), with 3 years of experience specializing in software engineering and programming languages. I prioritize software reliability ✅ and am currently focused on building robust, secure, and scalable software solutions 💻. I thrive on solving complex problems and staying updated with cutting-edge technologies. My interests span algorithms 🧠, advancing programming languages, and leveraging cloud-native technologies like AWS ☁️ for building resilient infrastructures. Let's connect and collaborate on exciting projects to bring ideas to life! 💡
