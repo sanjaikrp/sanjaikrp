@@ -41,6 +41,5 @@ I'm Sanjai Kolathur Revathi Poovaragavan, a dedicated and innovative software en
   <img width="325" height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikrp&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/>
-
 <hr/>
+<img width="1200" height="350" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" alt="top langs" />
