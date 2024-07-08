@@ -22,7 +22,9 @@ I'm Sanjai Kolathur Revathi Poovaragavan, a dedicated and innovative software en
 
 <hr/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjaikrp&bg_color=000000&color=00c7fc&line=00c7fc&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=sanjaikrp&theme=react)
+
+<hr/>
 
 <h2 align="center">⚙️ 📚 💻 🛠️ Languages-Frameworks-Tools 🛠️ 💻 📚 ⚙️</h2>
 <br/>
@@ -38,9 +40,9 @@ I'm Sanjai Kolathur Revathi Poovaragavan, a dedicated and innovative software en
 <br>
 
 <div align="center">
-  <img width="390" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikrp&&theme=react&border_radius=10" alt="sanjaikrp"/>
-  <img width="390" height="150" src="https://github-readme-stats.vercel.app/api?username=sanjaikrp&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />      <br/>
-  <img width="325" height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikrp&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikrp&theme=react&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaikrp&theme=react&rank_icon=github&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikrp&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <hr/>
