@@ -37,7 +37,6 @@ I'm Sanjai Kolathur Revathi Poovaragavan, a dedicated and innovative software en
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 
 <p align="center">
   <img height="150" width="150" src="WINGS/Right.gif"/>
