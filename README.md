@@ -21,7 +21,9 @@ I'm Sanjai Kolathur Revathi Poovaragavan, a dedicated and innovative software en
 </div>
 
 <hr/>
- 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjaikrp&bg_color=000000&color=00c7fc&line=00c7fc&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h2 align="center">⚙️ 📚 💻 🛠️ Languages-Frameworks-Tools 🛠️ 💻 📚 ⚙️</h2>
 <br/>
 <div align="center">
