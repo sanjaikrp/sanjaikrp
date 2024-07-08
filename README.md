@@ -40,22 +40,22 @@ I'm Sanjai Kolathur Revathi Poovaragavan, a dedicated and innovative software en
 <br>
 
 <p align="center">
-  <img height="150" width="150" src="WINGS/Left.webp"/>
+  <img height="150" width="150" src="WINGS/Right.gif"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikrp&theme=react&hide_border=false"/>
-  <img height="150" width="150" src="WINGS/Right.webp"/>
-</p> <br/> 
+  <img height="150" width="150" src="WINGS/Left.gif"/>
+</p> 
 
 <p align="center">
-  <img height="150" width="150" src="WINGS/Left.webp"/>
+  <img height="150" width="150" src="WINGS/Right.gif"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaikrp&theme=react&rank_icon=github&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="150" width="150" src="WINGS/Right.webp"/>
-</p> <br/> 
+  <img height="150" width="150" src="WINGS/Left.gif"/>
+</p> 
 
 <p align="center">
-  <img height="150" width="150" src="WINGS/Left.webp"/>
+  <img height="150" width="150" src="WINGS/Right.gif"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikrp&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  <img height="150" width="150" src="WINGS/Right.webp"/>
-</p> <br/> 
+  <img height="150" width="150" src="WINGS/Left.gif"/>
+</p> 
 
 <hr/>
 <img width="1200" height="350" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" alt="top langs" />
