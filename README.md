@@ -38,15 +38,12 @@ I'm Sanjai Kolathur Revathi Poovaragavan, a dedicated and innovative software en
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikrp&theme=react&hide_border=false" alt="sanjaikrp's Streak" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaikrp&theme=react&rank_icon=github&show_icons=true&hide_border=false&count_private=true" alt="sanjaikrp's Stats" style="max-width: 100%;"/>
+</div>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikrp&theme=react&hide_border=false"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaikrp&theme=react&rank_icon=github&hide_border=false&include_all_commits=true&count_private=true"/>
-</p> 
-
-<p align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img height="100" width="100" src="WINGS/Right.gif"/>
-  <img align="center" style="margin: 0 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikrp&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  <img height="100" width="100" src="WINGS/Left.gif"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikrp&theme=react&show_icons=true&hide_border=false&layout=compact" alt="sanjaikrp's Top Languages" style="max-width: 100%;"/>
 </p>
 
 <hr/>
