@@ -39,8 +39,8 @@ I'm Sanjai Kolathur Revathi Poovaragavan, a dedicated and innovative software en
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikrp&theme=react&hide_border=false" alt="sanjaikrp's Streak" style="width: 47.2%; height: 47.2%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaikrp&theme=react&rank_icon=github&show_icons=true&hide_border=false&count_private=true" alt="sanjaikrp's Stats" style="width: 45.5%; height: 45.5%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikrp&theme=react&hide_border=false" alt="sanjaikrp's Streak" style="width: 37%; height: 37%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaikrp&theme=react&rank_icon=github&show_icons=true&hide_border=false&count_private=true" alt="sanjaikrp's Stats" style="width: 35%; height: 35%;"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikrp&theme=react&show_icons=true&hide_border=false&layout=compact" alt="sanjaikrp's Top Languages"/>
