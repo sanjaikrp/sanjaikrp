@@ -12,7 +12,7 @@ I'm Sanjai Kolathur Revathi Poovaragavan, a dedicated and innovative software en
   ⦿ Contact me via Email <a href="mailto:jaisan262@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red target="_blank" />
   </a>
-  ⦿ Explore my Portfolio <a href="https://sanjaikrp.github.io" target="_blank"> 
+  ⦿ Explore my Portfolio <a href="https://sanjaikrp-portfolio.netlify.app" target="_blank"> 
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
   ⦿ Network on LinkedIn <a href="https://linkedin.com/in/sanjaikrp" target="_blank"> 
@@ -39,22 +39,15 @@ I'm Sanjai Kolathur Revathi Poovaragavan, a dedicated and innovative software en
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
-  <img height="150" width="150" src="WINGS/Right.gif"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikrp&theme=react&hide_border=false"/>
-  <img height="150" width="150" src="WINGS/Left.gif"/>
-</p> 
-
-<p align="center">
-  <img height="150" width="150" src="WINGS/Right.gif"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaikrp&theme=react&rank_icon=github&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="150" width="150" src="WINGS/Left.gif"/>
 </p> 
 
-<p align="center">
-  <img height="150" width="150" src="WINGS/Right.gif"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikrp&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  <img height="150" width="150" src="WINGS/Left.gif"/>
-</p> 
+<p align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img height="100" width="100" src="WINGS/Right.gif"/>
+  <img align="center" style="margin: 0 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikrp&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="100" width="100" src="WINGS/Left.gif"/>
+</p>
 
 <hr/>
 <img width="1200" height="350" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" alt="top langs" />
