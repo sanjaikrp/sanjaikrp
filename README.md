@@ -35,4 +35,15 @@ My core interests include <b>microservices architecture, distributed systems, an
 
 </div>
 
-<h2 align="center">⚙️ Tech Stack ⚙️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=react,aws,jquery,html,css,vscode,github,gitlab,gcp,git,r" /> <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,ae,cs,postgres,mongodb,c,java,cpp,mysql,pr" /><br> </div> <br/> <hr/>
+<div align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</div>
+
+<h2 align="center">⚙️ Tech Stack ⚙️</h2>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,aws,jquery,html,css,vscode,github,gitlab,gcp,git,r" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,ae,cs,postgres,mongodb,c,java,cpp,mysql,pr" />
+</div>
+<br/>
+<hr/>
