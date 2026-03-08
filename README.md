@@ -1,52 +1,38 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sanjaikrp" alt="sanjaikrp" /> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sanjaikrp" alt="profile views"/>
+</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=900&height=60&duration=3800&lines=Welcome+to+my+GitHub+profile!+👋;+I'm+Sanjai+Kolathur+Revathi+Poovaragavan,+a+passionate+software+engineer!;" />
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=900&height=60&duration=3800&lines=Welcome+to+my+GitHub+profile!+👋;" />
 </h1>
 
-I'm Sanjai Kolathur Revathi Poovaragavan, a dedicated and innovative software engineer currently at [Odessa Technologies](https://www.odessainc.com), with 3 years of experience specializing in software engineering and programming languages. I prioritize software reliability ✅ and am currently focused on building robust, secure, and scalable software solutions 💻. I thrive on solving complex problems and staying updated with cutting-edge technologies. My interests span algorithms 🧠, advancing programming languages, and leveraging cloud-native technologies like AWS ☁️ for building resilient infrastructures. Let's connect and collaborate on exciting projects to bring ideas to life! 💡
+<p align="left">
+I'm <b>Sanjai Kolathur Revathi Poovaragavan</b>, a Backend Software Engineer with <b>3+ years of experience</b> building scalable backend systems and high-performance APIs. Previously, I worked at <a href="https://www.odessainc.com">Odessa Technologies</a>, where I developed enterprise backend services, optimized application performance, and improved system reliability and delivery efficiency.
+</p>
 
-<br/>
+<p align="left">
+My core interests include <b>microservices architecture, distributed systems, and cloud-native development</b>, with a strong focus on <b>clean system design, performance, and maintainability</b>. Currently pursuing an <b>MSc in Advanced Computer Science</b> at 
+<a href="https://www.leeds.ac.uk/">University of Leeds</a>, expanding my expertise in <b>cloud computing, distributed systems, and advanced software engineering</b>.
+</p>
 
-<div align="center"> 
-  ⦿ Contact me via Email <a href="mailto:jaisan262@gmail.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red target="_blank" />
-  </a>
-  ⦿ Explore my Portfolio <a href="https://sanjaikrp-portfolio.netlify.app" target="_blank"> 
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-  ⦿ Network on LinkedIn <a href="https://linkedin.com/in/sanjaikrp" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+<p align="left">
+<b>Open to Backend / Software Engineering opportunities starting in 2026.</b>
+</p>
 
-<hr/>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=sanjaikrp&theme=react)
-
-<hr/>
-
-<h2 align="center">⚙️ 📚 💻 🛠️ Languages-Frameworks-Tools 🛠️ 💻 📚 ⚙️</h2>
-<br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,aws,jquery,html,css,vscode,github,gitlab,gcp,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,ae,cs,postgres,mongodb,c,java,cpp,mysql,pr" /><br>
+
+<a href="mailto:krp.sanjai@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/Phlogix/Social-Icons/main/SVG/Colorful/Gmail.svg" width="40" height="40"/>
+</a> Contact me via Email &nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://sanjaikrp-portfolio.netlify.app" target="_blank">
+  <img src="https://raw.githubusercontent.com/Phlogix/Social-Icons/main/SVG/Colorful/Google.svg" width="40" height="40"/>
+</a> Explore my Portfolio &nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/sanjaikrp" target="_blank">
+  <img src="https://raw.githubusercontent.com/Phlogix/Social-Icons/main/SVG/Colorful/LinkedIN.svg" width="40" height="40"/>
+</a> Network on LinkedIn
+
 </div>
 
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikrp&theme=react&hide_border=false" alt="sanjaikrp's Streak" style="width: 44%; height: 44%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaikrp&theme=react&rank_icon=github&show_icons=true&hide_border=false&count_private=true" alt="sanjaikrp's Stats" style="width: 42%; height: 42%;"/>
-</p>
-<p align="center">
-  <img height="100" width="100" src="WINGS/Right.gif"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikrp&theme=react&show_icons=true&hide_border=false&layout=compact" alt="sanjaikrp's Top Languages"/>
-  <img height="100" width="100" src="WINGS/Left.gif"/>
-</p>
-
-<hr/>
-<img width="1200" height="350" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" alt="top langs" />
+<h2 align="center">⚙️ Tech Stack ⚙️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=react,aws,jquery,html,css,vscode,github,gitlab,gcp,git,r" /> <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,ae,cs,postgres,mongodb,c,java,cpp,mysql,pr" /><br> </div> <br/> <hr/>
